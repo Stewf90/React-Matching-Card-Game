@@ -1,3 +1,6 @@
+In a terminal, type 'npm i' and hit ENTER to install the node_modules needed to run in the browser. Then type 'npm start' and hit ENTER to load the game.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
